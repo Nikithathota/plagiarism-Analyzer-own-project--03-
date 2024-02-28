@@ -21,5 +21,6 @@ Run the Streamlit app:
 streamlit run plagiarism_checker.py
 
 ## Output
-Open your web browser and go to http://localhost:8501/ to use the plagiarism checker.
+Open your web browser and go to http://192.168.0.101:8501 to use the plagiarism checker.
+
 
