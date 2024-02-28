@@ -13,3 +13,13 @@ This is a simple plagiarism checker built with Streamlit and scikit-learn's Tfid
 2.Click the "Check Plagiarism" button to initiate the plagiarism check.
 3.View the percentile scores displayed for each pair of texts.
 
+## Working
+Install the required dependencies:
+pip install streamlit scikit-learn numpy
+
+Run the Streamlit app:
+streamlit run plagiarism_checker.py
+
+## Output
+Open your web browser and go to http://localhost:8501/ to use the plagiarism checker.
+
