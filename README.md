@@ -21,6 +21,6 @@ Run the Streamlit app:
 streamlit run plagiarism_checker.py
 
 ## Output
-Open your web browser and go to http://192.168.0.101:8501 to use the plagiarism checker.
+when we run the code in terminal with steamlit run filename.py then the terminal will provide with the local host link, where we can see the website.
 
 
