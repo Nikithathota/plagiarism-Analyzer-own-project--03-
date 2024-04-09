@@ -23,4 +23,4 @@ streamlit run plagiarism_checker.py
 ## Output
 when we run the code in terminal with steamlit run filename.py then the terminal will provide with the local host link, where we can see the website.
 
-
+<img src="C:\Users\nikit\OneDrive\Pictures\Screenshots\Screenshot 2024-02-23 214825.png"/>
